@@ -368,6 +368,9 @@ PRODUCT_COPY_FILES += \
 # VNDK
 PRODUCT_ENFORCE_ARTIFACT_PATH_REQUIREMENTS := strict
 
+PRODUCT_PACKAGES += \
+    libutils.vendor
+
 # WiFi
 PRODUCT_PACKAGES += \
     android.hardware.wifi-service \
