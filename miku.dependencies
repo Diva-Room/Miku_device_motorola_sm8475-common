@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "Miku_kernel_motorola_sm8475",
+    "target_path": "kernel/motorola/sm8475",
+    "branch": "Blooming",
+    "remote": "diva"
+  },
+  {
+    "repository": "Miku_kernel_motorola_sm8475-modules",
+    "target_path": "kernel/motorola/sm8475-modules",
+    "branch": "Blooming",
+    "remote": "diva"
+  },
+  {
+    "repository": "Miku_kernel_motorola_sm8475-devicetrees",
+    "target_path": "kernel/motorola/sm8475-devicetrees",
+    "branch": "Blooming",
+    "remote": "diva"
+  },
+  {
+    "repository": "Miku_hardware_motorola",
+    "target_path": "hardware/motorola",
+    "branch": "Blooming",
+    "remote": "diva"
+  },
+  {
+    "repository": "Miku_vendor_motorola_sm8475-common",
+    "target_path": "vendor/motorola/sm8475-common",
+    "branch": "Blooming",
+    "remote": "diva-ssh"
+  }
+]
