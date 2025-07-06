@@ -36,12 +36,6 @@ libs_add_vendor_suffix = (
 )
 
 libs_remove = (
-    'libar-pal',
-    'libar-acdb',
-    'liblx-osal',
-    'libats',
-    'libagm',
-    'libpalclient',
     'libwpa_client',
 )
 
