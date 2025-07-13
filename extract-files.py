@@ -97,7 +97,7 @@ blob_fixups: blob_fixups_user_type = {
         'libtinyxml2.so', 'libtinyxml2-v34.so'
     ),
     'vendor/etc/media_codecs_cape.xml': blob_fixup().regex_replace(
-        '.*media_codecs_(google_audio|google_c2|google_telephony|google_video|vendor_audio).*\n', ''
+        '.*media_codecs_(google_audio|google_c2|google_telephony|google_video|vendor_audio|dolby_audio).*\n', ''
     ),
 }
 
