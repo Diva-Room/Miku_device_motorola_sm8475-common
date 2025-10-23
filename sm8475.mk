@@ -154,6 +154,9 @@ PRODUCT_PACKAGES += \
     IPACM_cfg.xml \
     IPACM_Filter_cfg.xml
 
+# Kernel
+PRODUCT_ENABLE_UFFD_GC := true
+
 # MotoActions
 PRODUCT_PACKAGES += \
     MotoActions \
