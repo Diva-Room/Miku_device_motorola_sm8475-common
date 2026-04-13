@@ -134,9 +134,7 @@ PRODUCT_PACKAGES += \
     batching.conf \
     gnss_antenna_info.conf \
     gps.conf \
-    izat.conf \
-    lowi.conf \
-    sap.conf
+    izat.conf
 
 # Health
 PRODUCT_PACKAGES += \
