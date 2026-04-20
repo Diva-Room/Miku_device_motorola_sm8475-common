@@ -301,6 +301,10 @@ ro.vendor.use_data_netmgrd=true
 # Shutdown
 sys.vendor.shutdown.waittime=500
 
+# Silence log spam
+persist.log.tag.SurfaceControl=S
+persist.log.tag.BLASTBufferQueue=S
+
 # SOC
 ro.hardware.soc.manufacturer=qcom
 ro.soc.manufacturer=QTI
