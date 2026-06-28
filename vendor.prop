@@ -286,7 +286,6 @@ persist.log.tag.BLASTBufferQueue=S
 # SOC
 ro.hardware.soc.manufacturer=qcom
 ro.soc.manufacturer=QTI
-ro.soc.model=SM8475
 
 # SPU
 persist.vendor.enable_spu=true
