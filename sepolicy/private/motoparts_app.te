@@ -1,4 +1,4 @@
-type motoparts_app, domain;
+type motoparts_app, domain, coredomain;
 typeattribute motoparts_app mlstrustedsubject;
 
 app_domain(motoparts_app)
